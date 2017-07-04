@@ -9,7 +9,7 @@ function clicked(){
 	if(user.value == coruser) & (pass.value == corpass){
 
 		window.alert("You are now logged in");
-		
+		 
 	} else {
 
 		window.alert("Incorrect Password or Username");
